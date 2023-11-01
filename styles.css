@@ -1,0 +1,21 @@
+body {
+    background: #CCCCCC
+
+}
+
+#banner {
+    width:100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-principal {
+    padding-left: 48px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
